@@ -14,7 +14,7 @@ let package = Package(
 //        .binaryTarget(name: "AgoraChat", path: "AgoraChat.xcframework.zip")
         .binaryTarget(
             name: "AgoraChat",
-            url: "https://github.com/AgoraIO-Community/AgoraChat_iOS/releases/download/1.0.6-rc.1/AgoraChat.xcframework.zip",
+            url: "https://github.com/AgoraIO-Community/AgoraChat_iOS/releases/download/1.0.6/AgoraChat.xcframework.zip",
             checksum: "cb675a6dd933b3aea70b6b323f4e7cce7683502b4be07ac508a94a1a79106664"
         )
     ]
